@@ -3,13 +3,13 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Location](https://img.shields.io/badge/Location-Kirinyaga%20County%2C%20Kenya-blue)
 ![Expertise](https://img.shields.io/badge/Expertise-Biomedical%20Engineering-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-TUM-blue)
 
 ---
 
 ## 🏥 About Me
 
-I'm a **Biomedical Engineering Technician** and full-stack developer passionate about bridging healthcare technology and software solutions. With expertise from the **Technical University of Mombasa**, I specialize in medical equipment support, maintenance, and creating digital platforms that improve healthcare delivery across Kenya.
+I'm a **Biomedical Engineering Technician** and full-stack developer passionate about bridging healthcare technology and software solutions. With expertise from the **Technical University of Mombasa**,currently at Kimbimbi Subcounty Hospital. I specialize in medical equipment support, maintenance, and creating digital platforms that improve healthcare delivery across Kenya.
 
 ### Professional Focus
 - 🔧 **Medical Equipment Maintenance & Repair** (Preventive & Corrective)
