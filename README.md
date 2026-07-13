@@ -151,7 +151,7 @@ I'm always open to collaboration, partnerships, and discussing innovative health
 
 ## 📜 License
 
-All projects are licensed under the **MIT License** - feel free to use, modify, and distribute with proper attribution.
+All projects are licensed under the **AMEK License** - feel free to use, modify, and distribute with proper attribution.
 
 ---
 
